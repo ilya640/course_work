@@ -1044,4 +1044,7 @@
             .footer__social {
                 align-content: center;
             }
+            .hero__button_accent {
+                margin-top: 10px;
+            }
         }

@@ -91,6 +91,7 @@ html {
 }
 
 .hero {
+    display: grid;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -465,6 +466,13 @@ footer {
     font-size: 18px;
     font-family: "Courier New", Courier, monospace;
     color: #E5E5E5;
+}
+
+.projects,
+.aboutus,
+.contacts,
+.services {
+    display: grid;
 }
 
 .projects__header,

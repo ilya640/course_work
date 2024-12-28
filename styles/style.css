@@ -1039,5 +1039,8 @@ textarea {
         h1 {
             font-size: 24px;
         }
+        .footer__social {
+            height: 150px;
+        }
     }
 }

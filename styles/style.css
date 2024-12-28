@@ -72,9 +72,6 @@ html {
     background-size: contain;
 }
 
-
-/* Стили для бургера */
-
 .header__burger {
     display: none;
     flex-direction: column;
@@ -167,7 +164,6 @@ html {
     gap: 20px;
     justify-content: center;
     align-items: center;
-    /* width: 400px; */
 }
 
 .slider__counter {
@@ -245,7 +241,6 @@ footer {
     justify-self: center;
     max-width: 1200px;
     justify-self: center;
-    /* width: 100vw; */
     width: 90%;
 }
 
@@ -939,5 +934,3 @@ textarea {
         padding-top: 10px;
     }
 }
-
-@media (max-width: 480px) {}
